@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Validate given name or get hypocoristics of a name.",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "regenerate": "node generators",
     "test": "mocha",
