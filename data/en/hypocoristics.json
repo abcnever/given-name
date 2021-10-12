@@ -1,10 +1,13 @@
 [
   [
     "Aaron",
-    "Aar"
+    "Ron",
+    "Ronny"
   ],
   [
     "Abigail",
+    "Abbey",
+    "Abbie",
     "Nabby",
     "Abby",
     "Gail"
@@ -15,13 +18,23 @@
     "Bram"
   ],
   [
-    "Adelaida",
-    "Ida",
-    "Idly"
+    "Adrian",
+    "Adi",
+    "Ryan",
+    "Ari",
+    "Ian"
   ],
   [
-    "Alan",
-    "Al"
+    "Adam",
+    "Addy",
+    "Ad"
+  ],
+  [
+    "Agnes",
+    "Aggie",
+    "Nessie",
+    "Nessy",
+    "Nes"
   ],
   [
     "Alastair",
@@ -33,7 +46,10 @@
     "Albert",
     "Al",
     "Bert",
-    "Alberto"
+    "Bertie",
+    "Alberto",
+    "Burt",
+    "Abbe"
   ],
   [
     "Alexander",
@@ -41,13 +57,27 @@
     "Lex",
     "Xander",
     "Sander",
-    "Sandy"
+    "Sandy",
+    "Ander"
   ],
   [
     "Alexandra",
     "Alex",
     "Ali",
-    "Lexie",
+    "Lee",
+    "Lexi",
+    "Sasha",
+    "Sandra",
+    "Xandra"
+  ],
+  [
+    "Alexandre",
+    "Alex",
+    "Lex",
+    "Xander",
+    "Sander",
+    "Sandy",
+    "Anderxie",
     "Sandy"
   ],
   [
@@ -56,7 +86,7 @@
     "Alf",
     "Alfie",
     "Fred",
-    "Fredo"
+    "Freddy"
   ],
   [
     "Alonzo",
@@ -70,12 +100,16 @@
   [
     "Andrew",
     "Andy",
-    "Drew",
-    "And"
+    "Drew"
+  ],
+  [
+    "Angela",
+    "Angie"
   ],
   [
     "Angus",
-    "Gus"
+    "Gus",
+    "Gussy"
   ],
   [
     "Anne",
@@ -83,18 +117,20 @@
     "Nancy"
   ],
   [
+    "Anthea",
+    "Toni"
+  ],
+  [
     "Anthony",
-    "Ant",
     "Tony"
   ],
   [
     "Antoine",
-    "Ant"
+    "Tony"
   ],
   [
     "Antoinette",
-    "Toni",
-    "Netta"
+    "Toni"
   ],
   [
     "Antonia",
@@ -102,19 +138,16 @@
   ],
   [
     "Armando",
-    "Arm"
+    "Andy"
   ],
   [
     "Arnold",
     "Arnie"
   ],
   [
-    "Arthur",
-    "Art"
-  ],
-  [
     "Ashley",
-    "Ash"
+    "Ash",
+    "Ashy"
   ],
   [
     "Augustine",
@@ -125,21 +158,26 @@
   [
     "Augustus",
     "Gus",
-    "Auggy"
+    "Auggy",
+    "August"
   ],
   [
-    "Agnes",
-    "Aggie",
-    "Nessie",
-    "Nessy",
-    "Nes,"
+    "Annabell",
+    "Anna"
+  ],
+  [
+    "Bailee",
+    "Lee"
+  ],
+  [
+    "Bailey",
+    "Lee"
   ],
   [
     "Barbara",
     "Barb",
     "Barbie",
-    "Babs",
-    "Bobbie"
+    "Barby"
   ],
   [
     "Barnaby",
@@ -152,7 +190,6 @@
   [
     "Bartholomew",
     "Bart",
-    "Barty",
     "Barry"
   ],
   [
@@ -162,8 +199,21 @@
   [
     "Benjamin",
     "Ben",
-    "Benji",
-    "Benny"
+    "Benny",
+    "Benji"
+  ],
+  [
+    "Bernadette",
+    "Berrietta",
+    "Nadetta"
+  ],
+  [
+    "Bernard",
+    "Bernie"
+  ],
+  [
+    "Berry",
+    "Beri"
   ],
   [
     "Beverley",
@@ -178,33 +228,32 @@
   ],
   [
     "Bradley",
-    "Brad"
+    "Brad",
+    "Brodie",
+    "Bodie",
+    "Brayden",
+    "Rayden",
+    "Brady"
+  ],
+  [
+    "Brentley",
+    "Brent",
+    "Brett"
   ],
   [
     "Brian",
-    "Bria"
+    "Ian",
+    "Ryan"
   ],
   [
-    "Bridget",
-    "Biddy",
-    "Bridey"
-  ],
-  [
-    "Bruce",
-    "Bru"
-  ],
-  [
-    "Berry",
-    "Beri"
-  ],
-  [
-    "Bernadette",
-    "Berrietta",
-    "Nadetta"
+    "Bryan",
+    "Ian",
+    "Ryan"
   ],
   [
     "Byron",
-    "By"
+    "Ron",
+    "Ronny"
   ],
   [
     "Calvin",
@@ -212,6 +261,8 @@
   ],
   [
     "Cameron",
+    "Ron",
+    "Ronny",
     "Cam"
   ],
   [
@@ -220,7 +271,8 @@
   ],
   [
     "Carlos",
-    "Car"
+    "Carl",
+    "Carly"
   ],
   [
     "Carolyn",
@@ -263,15 +315,18 @@
   [
     "Christian",
     "Chris",
-    "Christie"
+    "Chrissy",
+    "Ian"
+  ],
+  [
+    "Christina",
+    "Tina",
+    "Christy",
+    "Christine"
   ],
   [
     "Christine",
-    "Chris",
-    "Christy",
-    "Chrissy",
-    "Chrissie",
-    "Tina"
+    "Christy"
   ],
   [
     "Christopher",
@@ -302,25 +357,41 @@
     "Connie"
   ],
   [
+    "Cooper",
+    "Coop",
+    "Cody"
+  ],
+  [
     "Curtis",
     "Curt"
   ],
   [
     "Cynthia",
-    "Cindy"
+    "Cindy",
+    "Cin",
+    "Pianoman"
   ],
   [
     "Cyrus",
     "Cy"
   ],
   [
-    "Damien",
-    "Dam"
+    "Damian",
+    "Ian"
   ],
   [
     "Daniel",
     "Dan",
     "Danny"
+  ],
+  [
+    "Daniella",
+    "Danielle",
+    "Danni"
+  ],
+  [
+    "Danielle",
+    "Danni"
   ],
   [
     "Darren",
@@ -329,11 +400,7 @@
   [
     "David",
     "Dave",
-    "Davey",
-    "Davie",
-    "Div",
-    "Dav",
-    "Davo"
+    "Davey"
   ],
   [
     "Deborah",
@@ -341,20 +408,8 @@
     "Debbie"
   ],
   [
-    "Declan",
-    "Dec"
-  ],
-  [
-    "Denise",
-    "Den"
-  ],
-  [
-    "Diesel",
-    "Die"
-  ],
-  [
-    "Dimitri",
-    "Dim"
+    "Dennis",
+    "Denny"
   ],
   [
     "Dolores",
@@ -373,36 +428,52 @@
     "Nicky"
   ],
   [
+    "Dominik",
+    "Dom",
+    "Nick",
+    "Nicky"
+  ],
+  [
     "Donald",
     "Don",
     "Donny"
+  ],
+  [
+    "Dorothea",
+    "Dorothy"
   ],
   [
     "Dorothy",
     "Dot",
     "Dottie",
     "Doll",
-    "Dolly"
+    "Dolly",
+    "Dory",
+    "Dora"
   ],
   [
     "Douglas",
     "Doug"
   ],
   [
-    "Duncan",
-    "Dun"
+    "Donovan",
+    "Donny",
+    "Danny"
   ],
   [
-    "Dylan",
-    "Dill"
+    "Duncan",
+    "Dunny"
+  ],
+  [
+    "Dwight",
+    "Ike"
   ],
   [
     "Edmund",
     "Ed",
     "Eddy",
-    "Eddie",
     "Ned",
-    "Neddie",
+    "Neddy",
     "Ted",
     "Teddy"
   ],
@@ -410,9 +481,8 @@
     "Edward",
     "Ed",
     "Eddy",
-    "Eddie",
     "Ned",
-    "Neddie",
+    "Neddy",
     "Ted",
     "Teddy"
   ],
@@ -438,6 +508,16 @@
     "Nell",
     "Nellie",
     "Nora"
+  ],
+  [
+    "Elliott",
+    "Elliot",
+    "Eliot",
+    "Eliott",
+    "Ell",
+    "Et",
+    "Lio",
+    "Elijah"
   ],
   [
     "Elizabeth",
@@ -472,29 +552,45 @@
     "Em",
     "Emmy",
     "Emma",
+    "Ellie",
     "Milly"
   ],
   [
-    "Ethan",
-    "Etha"
+    "Erin",
+    "Erer,Rin,Ri"
   ],
   [
-    "Ethel",
-    "Eth"
+    "Eugen",
+    "Gen"
   ],
   [
     "Eugene",
     "Gene",
-    "Gen",
-    "Eugen"
+    "Owen"
   ],
   [
-    "Ezekiel",
-    "Ezekias"
+    "Fabian",
+    "Fabes",
+    "Ian"
   ],
   [
     "Ferdinand",
     "Ferd"
+  ],
+  [
+    "Fiona",
+    "Sienna",
+    "Siena",
+    "Fi"
+  ],
+  [
+    "Florence",
+    "Flora",
+    "Floss",
+    "Flossie",
+    "Flo",
+    "Renchy",
+    "Rench"
   ],
   [
     "Frances",
@@ -519,7 +615,7 @@
     "Francis",
     "Fran",
     "Frank",
-    "Frankie"
+    "Franky"
   ],
   [
     "Franklin",
@@ -529,30 +625,30 @@
   [
     "Frederick",
     "Fred",
-    "Freddy"
+    "Freddy",
+    "Eric",
+    "Erick",
+    "Rick",
+    "Ricky"
   ],
   [
-    "Fiona",
-    "Sienna",
-    "Siena",
-    "Fi"
-  ],
-  [
-    "Florence",
-    "Flora",
-    "Floss",
-    "Flossie",
-    "Flo",
-    "Renchy",
-    "Rench"
+    "Fredrick",
+    "Fred",
+    "Freddy Rick"
   ],
   [
     "Gabriel",
-    "Gabe"
+    "Gabe",
+    "Gaby"
   ],
   [
-    "Gabriela",
-    "Gabby"
+    "Gabriella",
+    "Gabrielle,"
+  ],
+  [
+    "Gabrielle",
+    "Gabby",
+    "Gabi"
   ],
   [
     "Garfield",
@@ -562,38 +658,16 @@
   ],
   [
     "Geoffrey",
-    "Geoff",
-    "Jeff"
+    "Geoff"
+  ],
+  [
+    "George",
+    "Georg",
+    "Georgy"
   ],
   [
     "Gerald",
-    "Gerry",
-    "Jerry"
-  ],
-  [
-    "Gertrude",
-    "Gert",
-    "Gertie",
-    "Trudy"
-  ],
-  [
-    "Gilbert",
-    "Gil",
-    "Gib",
-    "Bert"
-  ],
-  [
-    "Gregory",
-    "Greg",
-    "Gregg"
-  ],
-  [
-    "Gustav",
-    "Gus"
-  ],
-  [
-    "Gustave",
-    "Gus"
+    "Gerry"
   ],
   [
     "Geronimo",
@@ -604,6 +678,34 @@
     "Gerie",
     "Ron",
     "Jer"
+  ],
+  [
+    "Gertrude",
+    "Gert",
+    "Gertie",
+    "Trudy"
+  ],
+  [
+    "Gillian",
+    "Gill",
+    "Gilly"
+  ],
+  [
+    "Gilbert",
+    "Gil",
+    "Gib",
+    "Bert"
+  ],
+  [
+    "Giovanni",
+    "John",
+    "Gio",
+    "Gigi",
+    "Ian"
+  ],
+  [
+    "Gordon",
+    "Gordy"
   ],
   [
     "Gracia",
@@ -619,6 +721,32 @@
     "Gracina"
   ],
   [
+    "Gregory",
+    "Greg",
+    "Gregg"
+  ],
+  [
+    "Gustav",
+    "Gus",
+    "Gussy"
+  ],
+  [
+    "Gustave",
+    "Gus",
+    "Gussy"
+  ],
+  [
+    "Gwendolyn",
+    "Gwen",
+    "Gwendy"
+  ],
+  [
+    "Hannah",
+    "Anna",
+    "Ann",
+    "Annie,"
+  ],
+  [
     "Harold",
     "Harry",
     "Hal"
@@ -628,22 +756,36 @@
     "Hatty"
   ],
   [
+    "Harris",
+    "Harry"
+  ],
+  [
+    "Harrison",
+    "Harris",
+    "Harry"
+  ],
+  [
     "Harry",
-    "Haz",
-    "Hazza"
+    "Hank",
+    "Hanky"
   ],
   [
     "Helen",
     "Nell",
     "Nellie",
-    "Eleni"
+    "Elenie"
+  ],
+  [
+    "Henrietta",
+    "Harriet",
+    "Henriette"
   ],
   [
     "Henry",
     "Hank",
+    "Hanky",
     "Hal",
-    "Harry",
-    "Hen"
+    "Harry"
   ],
   [
     "Herbert",
@@ -657,12 +799,12 @@
     "Hilly"
   ],
   [
-    "Homer",
-    "Home"
-  ],
-  [
     "Howard",
     "Howie"
+  ],
+  [
+    "Hunter",
+    "Hunt"
   ],
   [
     "Ingrid",
@@ -674,6 +816,14 @@
   ],
   [
     "Isaac",
+    "Ike"
+  ],
+  [
+    "Isaack",
+    "Ike"
+  ],
+  [
+    "Isaak",
     "Ike"
   ],
   [
@@ -700,19 +850,33 @@
     "Vor"
   ],
   [
+    "Jack",
+    "Jacky"
+  ],
+  [
+    "Jackson",
+    "Jack",
+    "Jacky"
+  ],
+  [
     "Jacob",
-    "Jake",
+    "Jake"
+  ],
+  [
     "Jacoby",
-    "Jay"
+    "Coby"
   ],
   [
     "James",
     "Jim",
     "Jimmy",
+    "Jay"
+  ],
+  [
     "Jamie",
-    "Jimbo",
-    "Jambo",
-    "Jam"
+    "Jim",
+    "Jimmy",
+    "Jay"
   ],
   [
     "Jane",
@@ -720,11 +884,15 @@
   ],
   [
     "Janet",
-    "Jan"
+    "Jan",
+    "Jane",
+    "Janey"
   ],
   [
     "Janice",
-    "Jan"
+    "Jan",
+    "Jane",
+    "Janey"
   ],
   [
     "Jasmin",
@@ -740,14 +908,27 @@
     "Jake"
   ],
   [
+    "Jaxon",
+    "Jack",
+    "Jacky"
+  ],
+  [
+    "Jaxson",
+    "Jack",
+    "Jacky"
+  ],
+  [
     "Jayden",
+    "Jay"
+  ],
+  [
+    "Jayson",
     "Jay"
   ],
   [
     "Jeffrey",
     "Jeff",
-    "Geoff",
-    "Jeffy"
+    "Jeffie"
   ],
   [
     "Jennifer",
@@ -757,9 +938,11 @@
   ],
   [
     "Jeremiah",
+    "Jeremy"
+  ],
+  [
     "Jeremy",
-    "Jerry",
-    "Jer"
+    "Jerry"
   ],
   [
     "Jerome",
@@ -768,15 +951,22 @@
   [
     "Jessica",
     "Jess",
+    "Jessy",
     "Jessie"
   ],
   [
+    "Joel",
+    "Joe",
+    "Joey"
+  ],
+  [
     "John",
-    "Johnny",
-    "Jack"
+    "Jack",
+    "Ian"
   ],
   [
     "Johnathan",
+    "Nathan",
     "John",
     "Johnny"
   ],
@@ -785,17 +975,30 @@
     "Jon",
     "John",
     "Jonny",
-    "Johnny"
+    "Johnny",
+    "Nathan"
   ],
   [
     "Jordan",
     "Judd",
-    "Jordy"
+    "Jordy",
+    "Dan",
+    "Danny"
+  ],
+  [
+    "Jordon",
+    "Jordy",
+    "Don",
+    "Donny"
   ],
   [
     "Joseph",
     "Joe",
     "Joey"
+  ],
+  [
+    "Josephina",
+    "Josephine"
   ],
   [
     "Josephine",
@@ -805,15 +1008,23 @@
   ],
   [
     "Joshua",
-    "Josh"
+    "Josh",
+    "Joshi"
   ],
   [
     "Judith",
-    "Judy"
+    "Judy",
+    "Jude"
   ],
   [
-    "Justin",
-    "Just"
+    "Julian",
+    "Jules",
+    "Ian"
+  ],
+  [
+    "Juliana",
+    "Julie",
+    "Jude"
   ],
   [
     "Katherine",
@@ -823,7 +1034,9 @@
     "Kate",
     "Kit",
     "Kitty",
-    "Katy"
+    "Katy",
+    "Karen",
+    "Erin,"
   ],
   [
     "Katrina",
@@ -837,7 +1050,13 @@
   ],
   [
     "Kevin",
-    "Kev"
+    "Ken",
+    "Kenny"
+  ],
+  [
+    "Kimberly",
+    "Kim",
+    "Kimmy"
   ],
   [
     "Kristen",
@@ -874,9 +1093,25 @@
     "Lori"
   ],
   [
+    "Laurence",
+    "Larry"
+  ],
+  [
     "Lawrence",
-    "Larry",
-    "Law"
+    "Larry"
+  ],
+  [
+    "Leanna",
+    "Leanne",
+    "Lee"
+  ],
+  [
+    "Leanne",
+    "Lee"
+  ],
+  [
+    "Leland",
+    "Lee"
   ],
   [
     "Leonard",
@@ -895,8 +1130,8 @@
     "Lee"
   ],
   [
-    "Liam",
-    "Li"
+    "Lester",
+    "Les"
   ],
   [
     "Lillian",
@@ -920,14 +1155,18 @@
   [
     "Louis",
     "Lou",
-    " Louie"
+    "Louie"
   ],
   [
-    "Louise",
-    "Lou"
+    "Louisa",
+    "Louise"
   ],
   [
     "Lucas",
+    "Luke"
+  ],
+  [
+    "Lukas",
     "Luke"
   ],
   [
@@ -947,19 +1186,27 @@
     "Lucinait"
   ],
   [
-    "Madeline",
-    "Maddie",
-    "Magdaline"
+    "Madelina",
+    "Madeline"
   ],
   [
-    "Madison",
+    "Madeline",
+    "Maddie",
+    "Magdaline",
+    "Mads",
+    "Lynn",
+    "Maddog"
+  ],
+  [
+    "Maddison",
     "Maddie"
   ],
   [
     "Marcus",
     "Marc",
     "Mark",
-    "Mars"
+    "Marky",
+    "Marcy"
   ],
   [
     "Margaret",
@@ -968,94 +1215,68 @@
     "Daisy",
     "Maggie",
     "Marge",
-    "Meg"
+    "Meg",
+    "Megan"
   ],
   [
     "Maria",
-    "Mia"
+    "Mary",
+    "Marie"
+  ],
+  [
+    "Marianna",
+    "Marianne"
+  ],
+  [
+    "Marianne",
+    "Maria",
+    "Mary"
+  ],
+  [
+    "Marie",
+    "Mary"
+  ],
+  [
+    "Marion",
+    "Mario"
+  ],
+  [
+    "Markus",
+    "Marc",
+    "Mark",
+    "Marky",
+    "Marcy"
+  ],
+  [
+    "Marshall",
+    "Marsh",
+    "Marshy"
   ],
   [
     "Martin",
     "Marty"
   ],
   [
-    "Melanie",
-    "Melane",
-    "Elaine",
-    "Mel,"
+    "Marvin",
+    "Marv"
   ],
   [
     "Mary",
-    "Daisie ,Maisie",
+    "Daisie",
+    "Maisie",
     "Polly",
     "Molly",
     "Mare"
   ],
   [
-    "Matthew",
+    "Mathew",
     "Matt",
     "Matty"
   ],
   [
-    "Megan",
-    "Meg"
-  ],
-  [
-    "Melanie",
-    "Mel"
-  ],
-  [
-    "Melissa",
-    "Mel",
-    "Lissa",
-    "Missy"
-  ],
-  [
-    "Melinda",
-    "Mel",
-    "Mindy"
-  ],
-  [
-    "Michael",
-    "Mike",
-    "Mick",
-    "Mikey",
-    "Mickey",
-    "Mic"
-  ],
-  [
-    "Michele",
-    "Shell",
-    "Shelley"
-  ],
-  [
-    "Miranda",
-    "Randy",
-    "Mindy"
-  ],
-  [
-    "Mitchell",
-    "Mitch"
-  ],
-  [
-    "Montgomery",
-    "Monty"
-  ],
-  [
-    "Morrison",
-    "Morry",
-    "Merry",
-    "Moris",
-    "Morris",
-    "Doris",
-    "Dory"
-  ],
-  [
-    "Marion",
-    "Mamie",
-    "Marie",
-    "Mariana",
-    "Marrier"
+    "Matthew",
+    "Matt",
+    "Matty"
   ],
   [
     "Maxim",
@@ -1071,6 +1292,88 @@
     "Maxmillion"
   ],
   [
+    "Maximilian",
+    "Max",
+    "Milan",
+    "Maxmus",
+    "Ian"
+  ],
+  [
+    "Maxwell",
+    "Max"
+  ],
+  [
+    "Megan",
+    "Meg"
+  ],
+  [
+    "Melanie",
+    "Melane",
+    "Elaine",
+    "Mel"
+  ],
+  [
+    "Melinda",
+    "Mel",
+    "Mind",
+    "Linda"
+  ],
+  [
+    "Melissa",
+    "Mel",
+    "Lissa",
+    "Missy"
+  ],
+  [
+    "Melvin",
+    "Mel",
+    "Mellie"
+  ],
+  [
+    "Michael",
+    "Mike",
+    "Mick",
+    "Mikey",
+    "Micky"
+  ],
+  [
+    "Michelle",
+    "Shell",
+    "Shelly",
+    "Chelle"
+  ],
+  [
+    "Minerva",
+    "Minnie"
+  ],
+  [
+    "Miranda",
+    "Randy",
+    "Mindy"
+  ],
+  [
+    "Mitchell",
+    "Mitch"
+  ],
+  [
+    "Montgomery",
+    "Monty"
+  ],
+  [
+    "Morgan",
+    "Morg",
+    "Maggie"
+  ],
+  [
+    "Morris",
+    "Moe"
+  ],
+  [
+    "Morrison",
+    "Morris",
+    "Dory"
+  ],
+  [
     "Natasha",
     "Tasha",
     "Tash",
@@ -1079,12 +1382,18 @@
   [
     "Nathan",
     "Nat",
-    "Nate"
+    "Nate",
+    "Natty"
   ],
   [
     "Nathaniel",
     "Nat",
-    "Nath"
+    "Nath",
+    "Nate"
+  ],
+  [
+    "Nelson",
+    "Nel"
   ],
   [
     "Nichola",
@@ -1106,10 +1415,12 @@
     "Nikki"
   ],
   [
+    "Nickolas",
+    "Nick",
+    "Nicky"
+  ],
+  [
     "Nigel",
-    "Nig",
-    "Niggy",
-    "Niglet",
     "Nige"
   ],
   [
@@ -1126,13 +1437,16 @@
     "Norman",
     "Nour",
     "Orman",
-    "Orbie"
+    "Orbie",
+    "Norm"
   ],
   [
     "Oliver",
     "Ollie",
     "Ol",
-    "Olly,"
+    "Olly",
+    "Oliwa",
+    "Oli"
   ],
   [
     "Olivia",
@@ -1154,22 +1468,11 @@
   [
     "Oscar",
     "Iscariot",
-    "Ozzy",
-    "Osc",
-    "Os"
+    "Ozzy"
   ],
   [
     "Pamela",
     "Pam"
-  ],
-  [
-    "Pasquale",
-    "Pat"
-  ],
-  [
-    "Patrick",
-    "Pat",
-    "Paddy"
   ],
   [
     "Patricia",
@@ -1181,19 +1484,32 @@
     "Trisha"
   ],
   [
+    "Patrick",
+    "Pat",
+    "Paddy",
+    "Pa"
+  ],
+  [
     "Paul",
     "Paulie",
-    "Polly"
+    "Polly",
+    "Pauly"
   ],
   [
     "Paula",
     "Paulie",
-    "Polly"
+    "Polly",
+    "Pauly"
+  ],
+  [
+    "Paulina",
+    "Pauline"
   ],
   [
     "Pauline",
     "Paulie",
-    "Polly"
+    "Polly",
+    "Paulin"
   ],
   [
     "Penelope",
@@ -1210,7 +1526,7 @@
   [
     "Peter",
     "Pete",
-    "Pet"
+    "Petey"
   ],
   [
     "Philip",
@@ -1224,7 +1540,8 @@
   ],
   [
     "Phillip",
-    "Phil,"
+    "Phil",
+    "Philly"
   ],
   [
     "Priscilla",
@@ -1240,24 +1557,22 @@
     "Quinton",
     "Quavie",
     "Quavix",
-    "Quazianit",
-    "Quaveric",
-    "Waverani",
-    "Tonieania",
-    "Quinton"
+    "Quin",
+    "Quinn"
   ],
   [
     "Rachel",
     "Ray or Rach"
   ],
   [
+    "Randolph",
+    "Randy",
+    "Rand"
+  ],
+  [
     "Raphael",
     "Ralph",
     "Rafi"
-  ],
-  [
-    "Randolph",
-    "Randy"
   ],
   [
     "Raymond",
@@ -1279,7 +1594,8 @@
   [
     "Reginald",
     "Reg",
-    "Reggie"
+    "Reggie",
+    "Rex"
   ],
   [
     "Renee",
@@ -1288,28 +1604,47 @@
   [
     "Richard",
     "Rich",
-    "Richie",
     "Rick",
     "Ricky",
     "Dick",
-    "Dicky"
+    "Dicky",
+    "Hick",
+    "Hickey"
+  ],
+  [
+    "Riley",
+    "Lee"
   ],
   [
     "Robert",
     "Bob",
     "Bobby",
-    "Bobbie",
-    "Robbie",
-    "Robin",
     "Rob",
-    "Robby"
+    "Robby",
+    "Robin",
+    "Bert"
   ],
   [
     "Roberta",
     "Bobbie"
   ],
   [
+    "Robinson",
+    "Robin",
+    "Robert",
+    "Rob",
+    "Ben"
+  ],
+  [
     "Roderick",
+    "Rod",
+    "Roddy",
+    "Eric",
+    "Erick",
+    "Rick"
+  ],
+  [
+    "Rodney",
     "Rod",
     "Roddy"
   ],
@@ -1319,15 +1654,15 @@
     "Roddy"
   ],
   [
-    "Rodney",
-    "Rod",
-    "Roddy"
-  ],
-  [
     "Ronald",
     "Ron",
-    "Ronnie",
-    "Ro"
+    "Ronny"
+  ],
+  [
+    "Roxanne",
+    "Roxy",
+    "Rox",
+    "Roxie"
   ],
   [
     "Russell",
@@ -1354,8 +1689,20 @@
     "Sally"
   ],
   [
+    "Sebastian",
+    "Sebby",
+    "Seb",
+    "Bas",
+    "Bash",
+    "Ian"
+  ],
+  [
     "Seymour",
     "Sy"
+  ],
+  [
+    "Sharon",
+    "Shaza"
   ],
   [
     "Sidney",
@@ -1363,27 +1710,70 @@
   ],
   [
     "Simon",
-    "Si",
     "Sam",
-    "Sime"
+    "Sammy"
   ],
   [
     "Spencer",
     "Spence"
   ],
   [
+    "Stanley",
+    "Stan"
+  ],
+  [
+    "Stellaluna",
+    "Stella",
+    "Luna"
+  ],
+  [
+    "Stuart",
+    "Stuie",
+    "Stu"
+  ],
+  [
     "Susan",
     "Sue",
     "Susie",
-    "Suzy"
+    "Suzy",
+    "Suey"
+  ],
+  [
+    "Sydney",
+    "Sid"
+  ],
+  [
+    "Sylvester",
+    "Simon",
+    "Vester",
+    "Psy"
   ],
   [
     "Sylvia",
-    "Sylvie",
-    "Sylys"
+    "Sylvie"
   ],
   [
     "Terence",
+    "Terry",
+    "Tel"
+  ],
+  [
+    "Teresa",
+    "Tracy",
+    "Tracey",
+    "Terry",
+    "Terrie",
+    "Terese",
+    "Terri",
+    "Teri"
+  ],
+  [
+    "Terrance",
+    "Terry",
+    "Tel"
+  ],
+  [
+    "Terrence",
     "Terry",
     "Tel"
   ],
@@ -1398,10 +1788,22 @@
     "Theo"
   ],
   [
+    "Theresa",
+    "Tracy",
+    "Tracey",
+    "Terry",
+    "Terrie",
+    "Terri",
+    "Teri"
+  ],
+  [
     "Thomas",
     "Tom",
-    "Thom",
     "Tommy"
+  ],
+  [
+    "Tiana",
+    "Tia"
   ],
   [
     "Tiffany",
@@ -1419,27 +1821,48 @@
     "Toby"
   ],
   [
-    "Travis",
-    "Trave"
+    "Todd",
+    "Toddy"
+  ],
+  [
+    "Tomas",
+    "Tom",
+    "Tommy"
+  ],
+  [
+    "Torrance",
+    "Terry"
   ],
   [
     "Trenton",
-    "Trent",
-    "Tren"
+    "Trent"
+  ],
+  [
+    "Trevor",
+    "Travis",
+    "Trev"
   ],
   [
     "Tristan",
-    "Trist",
-    "Tris"
+    "Tris",
+    "Triscuit",
+    "Ian"
   ],
   [
     "Tyler",
-    "Ty"
+    "Ty",
+    "Tyson"
+  ],
+  [
+    "Tyron",
+    "Ron",
+    "Ronny"
   ],
   [
     "Tyrone",
-    "Ty",
-    "Tyron"
+    "Tyron",
+    "Ron",
+    "Ronny"
   ],
   [
     "Tyson",
@@ -1459,14 +1882,14 @@
   ],
   [
     "Victor",
-    "Vic",
-    "Vict"
+    "Vic"
   ],
   [
     "Victoria",
     "Vicky",
     "Tori",
-    "Vick"
+    "Vick",
+    "Vicki"
   ],
   [
     "Vincent",
@@ -1480,12 +1903,6 @@
     "Lettie"
   ],
   [
-    "Virginia",
-    "Ginny",
-    "Ginger",
-    "Vergie"
-  ],
-  [
     "Violeta",
     "Letta",
     "Oleta",
@@ -1493,30 +1910,24 @@
     "Etsav"
   ],
   [
-    "Walter",
-    "Wal",
-    "Walt",
-    "Wally",
-    "Wat"
+    "Virginia",
+    "Gina",
+    "Ginny",
+    "Ginger",
+    "Nia",
+    "Vergie,"
   ],
   [
     "Wallace",
-    "Wal",
     "Walt",
     "Wally",
-    "Wat"
+    "Wal"
   ],
   [
-    "Wesley",
-    "Wes"
-  ],
-  [
-    "William",
-    "Will",
-    "Willie",
-    "Bill",
-    "Billy",
-    "Liam"
+    "Walter",
+    "Walt",
+    "Wally",
+    "Wal"
   ],
   [
     "Wendy",
@@ -1534,20 +1945,32 @@
     "Wend"
   ],
   [
-    "Woodrow",
-    "Woody",
-    "Wood"
+    "Wesley",
+    "Wes",
+    "Wessie"
   ],
   [
-    "Xavier",
-    "Savior",
-    "Xavi"
+    "William",
+    "Will",
+    "Willy",
+    "Bill",
+    "Billy",
+    "Liam"
+  ],
+  [
+    "Woodrow",
+    "Woody"
   ],
   [
     "Xander",
     "Xan",
     "Xandy",
     "Xolo"
+  ],
+  [
+    "Xavier",
+    "Savior",
+    "Xavi"
   ],
   [
     "Ximena",
@@ -1568,31 +1991,11 @@
     "Sen"
   ],
   [
-    "Yvonne",
-    "Yo",
-    "Von"
-  ],
-  [
-    "Yousef",
-    "Seth",
-    "You",
-    "Steff",
-    "Stef"
-  ],
-  [
     "Yin",
     "Xin",
     "Chinn",
     "Yip",
     "China"
-  ],
-  [
-    "Yue",
-    "Yu",
-    "Yew",
-    "Dewy",
-    "Duel",
-    "Du"
   ],
   [
     "Yong",
@@ -1603,21 +2006,67 @@
   [
     "Young",
     "Younguth",
-    "Yugi",
-    "You"
+    "Yugi"
+  ],
+  [
+    "Yousef",
+    "Seth",
+    "You",
+    "Steff",
+    "Stef"
+  ],
+  [
+    "Yue",
+    "Yu",
+    "Yew",
+    "Dewy",
+    "Duel",
+    "Du"
+  ],
+  [
+    "Yvonne",
+    "Yo",
+    "Von"
+  ],
+  [
+    "Zacarias",
+    "Zachary"
   ],
   [
     "Zachariah",
-    "Zachary",
-    "Zach",
-    "Zac"
+    "Zachary"
   ],
   [
-    "Ziggy",
-    "Zig",
-    "Zag",
-    "Zags",
-    "Sui"
+    "Zacharias",
+    "Zachary",
+    "Zack"
+  ],
+  [
+    "Zachary",
+    "Zac",
+    "Zach",
+    "Zack",
+    "Zak"
+  ],
+  [
+    "Zaiden",
+    "Zaid"
+  ],
+  [
+    "Zane",
+    "Zoo",
+    "Bo",
+    "Sassy",
+    "Zayn"
+  ],
+  [
+    "Zechariah",
+    "Zacchary",
+    "Zachary",
+    "Zachery",
+    "Zackary",
+    "Zackery",
+    "Zakary"
   ],
   [
     "Zelda",
@@ -1628,14 +2077,10 @@
     "Zealand"
   ],
   [
-    "Zane",
-    "Zoo",
-    "Bo",
-    "Sassy",
-    "Zayn"
-  ],
-  [
-    "Zoran",
-    "Zora"
+    "Ziggy",
+    "Zig",
+    "Zag",
+    "Zags",
+    "Sui"
   ]
 ]
