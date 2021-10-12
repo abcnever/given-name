@@ -5,7 +5,7 @@ const pl = require('./pl');
 
 const createDataWriter = language => data => {
     const prefix = `${language}:`;
-    console.log(prefix, 'Got', data.length, 'entries.');
+    console.log(prefix, 'Got', Object.keys(data).length, 'entries.');
     fs.writeFile(
         __dirname + `/../data/${language}/hypocoristics.json`,
         JSON.stringify(data, null, 2),

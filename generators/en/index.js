@@ -9,8 +9,9 @@ async function getData ()
         .map(line => {
             const [formal, nickStr] = line.split(" - ");
             const nickNames = nickStr.split(/, |\//);
-            return {[formal]: nickNames}
+            return [formal, nickNames]
         })
+        .reduce((map, arr) => (map[arr[0]] = arr[1], map), {})
 }
 
 module.exports = getData;
