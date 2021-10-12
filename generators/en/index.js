@@ -6,7 +6,11 @@ async function getData ()
     return wiktionaryEntry.html
         .match(/<li>\w* - [\w\/, ]*<\/li>/g)
         .map(li => li.replace(/<\/?li>/g, ''))
-        .map(line => line.split(/ - |, |\//));
+        .map(line => {
+            const [formal, nickStr] = line.split(" - ");
+            const nickNames = nickStr.split(/, |\//);
+            return {[formal]: nickNames}
+        })
 }
 
 module.exports = getData;

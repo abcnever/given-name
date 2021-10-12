@@ -12,7 +12,7 @@ hypocoristics('Lex');
 // → [Alexander, Alex, Xander, Sander, Sandy]
 
 const data = require('given-name/data');
-// → [Aaron, Aar, Abigail, …]
+// → [{ Aaron: [Aar, Abigail, …]}, …]
 const enData = require('given-name/data/en');
 const plData = require('given-name/data/pl');
 
@@ -31,6 +31,7 @@ welcome.
 - English: https://en.m.wiktionary.org/wiki/Appendix:English_given_names
 - Polish: https://pl.m.wiktionary.org/wiki/Indeks:Polski_-_Imiona
 
+Polish is not currently supported by this fork
 ## License
 
 [ISC](./LICENSE)
